@@ -1,0 +1,6 @@
+{
+  "name": "AUTONOMOUS",
+  "description": "An emerging technology company exploring new possibilities in intelligent AI and automation. The future of intelligence is taking shape.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
