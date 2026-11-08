@@ -14,11 +14,11 @@ export function Seo({ title, description }) {
       <meta property="og:title" content={fullTitle} />
       <meta property="og:description" content={desc} />
       <link rel="canonical" href={typeof window !== "undefined" ? window.location.href : "/"} />
-      <link rel="alternate" hreflang="en" href={typeof window !== "undefined" ? `${window.location.origin}/?lang=en` : "/"} />
-      <link rel="alternate" hreflang="de" href={typeof window !== "undefined" ? `${window.location.origin}/?lang=de` : "/"} />
-      <link rel="alternate" hreflang="es" href={typeof window !== "undefined" ? `${window.location.origin}/?lang=es` : "/"} />
-      <link rel="alternate" hreflang="fr" href={typeof window !== "undefined" ? `${window.location.origin}/?lang=fr` : "/"} />
-      <link rel="alternate" hreflang="x-default" href={typeof window !== "undefined" ? window.location.origin : "/"} />
+      <link rel="alternate" hrefLang="en" href={typeof window !== "undefined" ? `${window.location.origin}/?lang=en` : "/"} />
+      <link rel="alternate" hrefLang="de" href={typeof window !== "undefined" ? `${window.location.origin}/?lang=de` : "/"} />
+      <link rel="alternate" hrefLang="es" href={typeof window !== "undefined" ? `${window.location.origin}/?lang=es` : "/"} />
+      <link rel="alternate" hrefLang="fr" href={typeof window !== "undefined" ? `${window.location.origin}/?lang=fr` : "/"} />
+      <link rel="alternate" hrefLang="x-default" href={typeof window !== "undefined" ? window.location.origin : "/"} />
       <html lang={lang} />
     </Helmet>
   );

@@ -1,0 +1,3185 @@
+{
+  "settings": {
+    "seo_title": "AUTONOMOUS — A Smarter Companion for Every Journey",
+    "seo_description": "An emerging technology company exploring new possibilities in intelligent AI and automation. The future of intelligence is taking shape.",
+    "default_theme": "dark",
+    "contact_email": "autonomousai.support@gmail.com",
+    "secondary_email": "mohammedafnaspaleri@gmail.com",
+    "gmail_user": "autonomousai.support@gmail.com",
+    "gmail_app_password": "",
+    "smtp_host": "",
+    "smtp_port": "587",
+    "smtp_secure": false,
+    "maintenance_enabled": false,
+    "maintenance_message": "",
+    "maintenance_eta": "",
+    "maintenance": {
+      "enabled": false,
+      "message": "",
+      "eta": ""
+    },
+    "announcement": {
+      "enabled": false,
+      "text": "",
+      "link": ""
+    },
+    "approved_langs": [
+      "en",
+      "ml",
+      "hi",
+      "de",
+      "es",
+      "fr",
+      "ar"
+    ]
+  },
+  "faqs": [
+    {
+      "id": "ffa45a35067e4cf7a73c67825564de49",
+      "question": "What is AUTONOMOUS?",
+      "answer": "AUTONOMOUS is an emerging technology company exploring the next generation of intelligent AI and automation experiences. We believe technology should do more, so people can achieve more.",
+      "order": 1,
+      "active": true
+    },
+    {
+      "id": "50fcd95d256046c5bbc68341099e1b7f",
+      "question": "What is the vision of AUTONOMOUS?",
+      "answer": "Our vision is to build an ecosystem of intelligent AI agents that can simplify life and work.",
+      "order": 2,
+      "active": true
+    },
+    {
+      "id": "5913444a3d434da1957d8ef92065b30e",
+      "question": "What areas of technology are you exploring?",
+      "answer": "We are exploring four connected areas: intelligent AI, autonomous systems, human-technology collaboration, and automation and productivity.",
+      "order": 3,
+      "active": true
+    },
+    {
+      "id": "d94323062b3740c0861ee955c4473613",
+      "question": "How can I connect or collaborate?",
+      "answer": "You can reach us through the contact form on this website, or write to us at autonomousai.support@gmail.com.",
+      "order": 4,
+      "active": true
+    }
+  ],
+  "milestones": [
+    {
+      "id": "eb087dc3dd864c8aa94c4c85401a970b",
+      "stage": "01",
+      "title": "Idea",
+      "description": "It started with a belief: technology should do more, so people can achieve more.",
+      "order": 1,
+      "active": true
+    },
+    {
+      "id": "7ab66f8b283e4ebe8e235a9922395964",
+      "stage": "02",
+      "title": "Exploration",
+      "description": "We are exploring intelligent AI agents, autonomous systems and human-technology collaboration.",
+      "order": 2,
+      "active": true
+    },
+    {
+      "id": "47e192fff47147a69edb1046b1ba3cb9",
+      "stage": "03",
+      "title": "Planning",
+      "description": "Shaping the direction, the experience and the foundations of what comes next.",
+      "order": 3,
+      "active": true
+    },
+    {
+      "id": "5b0de3f6062e46e3ae02e3f553748b3d",
+      "stage": "04",
+      "title": "Building toward the future",
+      "description": "Actively building toward a future where technology becomes more capable, adaptive and useful.",
+      "order": 4,
+      "active": true
+    }
+  ],
+  "enquiries": [
+    {
+      "id": "9feb25d4-f3c7-4e94-9a53-28ae3e35f782",
+      "name": "Marcus Vance",
+      "email": "marcus@vance-robotics.com",
+      "reason": "collab",
+      "subject": "Autonomous Systems Synergy",
+      "message": "We are exploring automated companion robotics and would love to partner with AUTONOMOUS.",
+      "status": "new",
+      "created_at": "2026-11-08T17:04:54.003Z"
+    },
+    {
+      "id": "enq-1",
+      "name": "Sarah Lin",
+      "email": "sarah.lin@example.com",
+      "reason": "collab",
+      "subject": "AI Agent Partnership Inquiry",
+      "message": "We are developing complementary automation workflows and would love to explore synergy with AUTONOMOUS.",
+      "status": "new",
+      "created_at": "2026-11-08T09:04:41.528Z"
+    },
+    {
+      "id": "enq-2",
+      "name": "David Keller",
+      "email": "keller.d@venture.io",
+      "reason": "investor",
+      "subject": "Investment and Roadmapping Discussion",
+      "message": "Interested in learning more about your timeline and technological architecture.",
+      "status": "read",
+      "created_at": "2026-11-06T17:04:41.529Z"
+    }
+  ],
+  "visitsLog": [
+    {
+      "path": "/contact",
+      "timestamp": 1793074582456
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793108734157
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793109018777
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793069617369
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793064919673
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793080019045
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793106650378
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793100636842
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793119501368
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793050645275
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793066415792
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793087114464
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793093678436
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793044224763
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793064417917
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793064779361
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793088422117
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793100250173
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793042527104
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793069077894
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793058710751
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793045956724
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793055023819
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793070550963
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793095324353
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793081344854
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793071642282
+    },
+    {
+      "path": "/",
+      "timestamp": 1793048494887
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793108646248
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793067288042
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793041197372
+    },
+    {
+      "path": "/",
+      "timestamp": 1793101796657
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793078954651
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793102046846
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793102353446
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793046296832
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793059745436
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793072129565
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793076818286
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793096338663
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793062861110
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793088271220
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793043987890
+    },
+    {
+      "path": "/",
+      "timestamp": 1793206549292
+    },
+    {
+      "path": "/",
+      "timestamp": 1793146715745
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793125809905
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793177695033
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793200157229
+    },
+    {
+      "path": "/",
+      "timestamp": 1793203998216
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793159449240
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793202271166
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793204939598
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793181954223
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793157722616
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793124301965
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793170206124
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793147939430
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793183532152
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793202657048
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793132207366
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793196686872
+    },
+    {
+      "path": "/",
+      "timestamp": 1793195166353
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793122899392
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793247549662
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793269004947
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793267871339
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793268818832
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793218546807
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793274562872
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793283175657
+    },
+    {
+      "path": "/",
+      "timestamp": 1793286116329
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793283268771
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793267025442
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793247955584
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793253229289
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793262995051
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793257137975
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793233362168
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793219705190
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793262546576
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793209980809
+    },
+    {
+      "path": "/",
+      "timestamp": 1793255028854
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793222496900
+    },
+    {
+      "path": "/",
+      "timestamp": 1793276669933
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793293194771
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793252408168
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793213696423
+    },
+    {
+      "path": "/",
+      "timestamp": 1793218279633
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793258136224
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793212152900
+    },
+    {
+      "path": "/",
+      "timestamp": 1793292060615
+    },
+    {
+      "path": "/",
+      "timestamp": 1793292184655
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793233591638
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793233927411
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793285444345
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793260364337
+    },
+    {
+      "path": "/",
+      "timestamp": 1793302360782
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793310168144
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793344227976
+    },
+    {
+      "path": "/",
+      "timestamp": 1793341009517
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793352831120
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793314738883
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793374619561
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793301798089
+    },
+    {
+      "path": "/",
+      "timestamp": 1793307763318
+    },
+    {
+      "path": "/",
+      "timestamp": 1793343106807
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793319339064
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793304432627
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793296756774
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793378265585
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793341311501
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793338984499
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793345863790
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793293568091
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793317498221
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793354310507
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793374352678
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793344916432
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793323980116
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793330887102
+    },
+    {
+      "path": "/",
+      "timestamp": 1793310129805
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793310559569
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793329078479
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793321966918
+    },
+    {
+      "path": "/",
+      "timestamp": 1793325941783
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793364759818
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793303741454
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793333783887
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793353688007
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793309550969
+    },
+    {
+      "path": "/",
+      "timestamp": 1793310368847
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793337826451
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793293592634
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793294394626
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793371523064
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793337654218
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793297049657
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793302907947
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793368211395
+    },
+    {
+      "path": "/",
+      "timestamp": 1793386637593
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793411424520
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793409183579
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793434348633
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793457247696
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793427661786
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793422591976
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793436660474
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793413907100
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793428130070
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793451696047
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793385781243
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793436039338
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793458013248
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793450137783
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793465472882
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793436393662
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793400427304
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793397735263
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793399591207
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793387407238
+    },
+    {
+      "path": "/",
+      "timestamp": 1793434430710
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793410467292
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793390030486
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793402666792
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793396935605
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793410983055
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793426987196
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793383400451
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793389753458
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793389883981
+    },
+    {
+      "path": "/",
+      "timestamp": 1793465955337
+    },
+    {
+      "path": "/",
+      "timestamp": 1793382800664
+    },
+    {
+      "path": "/",
+      "timestamp": 1793417978977
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793413555994
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793420704481
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793400149262
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793416500740
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793396250908
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793479034122
+    },
+    {
+      "path": "/",
+      "timestamp": 1793530580455
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793526966124
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793526445388
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793505233841
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793501996439
+    },
+    {
+      "path": "/",
+      "timestamp": 1793524489760
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793523773328
+    },
+    {
+      "path": "/",
+      "timestamp": 1793479929448
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793545978468
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793500315535
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793501737813
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793528969388
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793535391183
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793478056326
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793545553622
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793541181885
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793504496677
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793543769561
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793505489809
+    },
+    {
+      "path": "/",
+      "timestamp": 1793502772604
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793518831420
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793499350703
+    },
+    {
+      "path": "/",
+      "timestamp": 1793515256447
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793466682325
+    },
+    {
+      "path": "/",
+      "timestamp": 1793549779294
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793486075633
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793467004844
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793483292933
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793489471972
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793550196085
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793480137466
+    },
+    {
+      "path": "/",
+      "timestamp": 1793483647083
+    },
+    {
+      "path": "/",
+      "timestamp": 1793518563775
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793491761410
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793621729592
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793627761455
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793628973115
+    },
+    {
+      "path": "/",
+      "timestamp": 1793574618912
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793585597329
+    },
+    {
+      "path": "/",
+      "timestamp": 1793596739965
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793554624819
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793574922308
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793613287582
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793588442165
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793602920969
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793583645119
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793590520416
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793602159736
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793618701904
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793576386600
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793635002227
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793579980002
+    },
+    {
+      "path": "/",
+      "timestamp": 1793571059051
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793580088409
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793589330344
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793616444996
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793618185893
+    },
+    {
+      "path": "/",
+      "timestamp": 1793605535929
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793626988878
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793651318720
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793705659008
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793710234536
+    },
+    {
+      "path": "/",
+      "timestamp": 1793691063185
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793670657914
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793651337073
+    },
+    {
+      "path": "/",
+      "timestamp": 1793666146772
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793697279755
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793700626600
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793725369563
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793710814601
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793682536694
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793651883169
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793708887644
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793667108409
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793682951375
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793646366892
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793662638041
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793671551363
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793703002064
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793677032280
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793692563746
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793714219911
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793720222474
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793715755061
+    },
+    {
+      "path": "/",
+      "timestamp": 1793662154925
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793675228305
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793685106376
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793653975086
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793691026421
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793700732077
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793688828497
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793695218483
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793639497873
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793772122266
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793761747251
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793788844095
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793794436287
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793732003548
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793763556233
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793805437287
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793801471500
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793770547335
+    },
+    {
+      "path": "/",
+      "timestamp": 1793769084586
+    },
+    {
+      "path": "/",
+      "timestamp": 1793741077438
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793790474261
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793733239693
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793743936755
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793727115862
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793795939601
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793727641544
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793762527209
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793760374774
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793801494503
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793785902424
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793795316365
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793752511175
+    },
+    {
+      "path": "/",
+      "timestamp": 1793802111772
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793790117357
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793733187535
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793730798859
+    },
+    {
+      "path": "/",
+      "timestamp": 1793767317824
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793804090643
+    },
+    {
+      "path": "/",
+      "timestamp": 1793808731165
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793789772219
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793725749700
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793806977917
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793786008275
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793749267854
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793751782397
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793797404181
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793803324732
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793803821381
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793767175907
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793811647852
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793765898126
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793729880648
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793779199036
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793767807968
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793766076216
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793792738977
+    },
+    {
+      "path": "/",
+      "timestamp": 1793743819722
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793753206640
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793757822909
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793776596086
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793734991803
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793755553678
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793874470472
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793835148232
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793833796755
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793824253413
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793840335474
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793835432686
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793870016389
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793812202729
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793851015227
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793816257084
+    },
+    {
+      "path": "/",
+      "timestamp": 1793836173353
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793840394524
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793883889663
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793846282365
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793848534617
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793846479946
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793871021462
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793845966641
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793838013640
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793826647241
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793854040256
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793847848018
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793864019555
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793818474245
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793871716533
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793864688251
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793854951796
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793869956705
+    },
+    {
+      "path": "/",
+      "timestamp": 1793892536430
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793887724536
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1793862078006
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793819476989
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793939943016
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793984499769
+    },
+    {
+      "path": "/",
+      "timestamp": 1793964151081
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793906534792
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793923353044
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793916853801
+    },
+    {
+      "path": "/",
+      "timestamp": 1793974667197
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793981700546
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1793973724205
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793925413841
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793967850075
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793910287819
+    },
+    {
+      "path": "/",
+      "timestamp": 1793939395610
+    },
+    {
+      "path": "/product",
+      "timestamp": 1793969414301
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1793902307208
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793904287331
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793949907939
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1793956185209
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793988492294
+    },
+    {
+      "path": "/product",
+      "timestamp": 1794035169636
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1794054577677
+    },
+    {
+      "path": "/",
+      "timestamp": 1793989467284
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793999663417
+    },
+    {
+      "path": "/",
+      "timestamp": 1794055181455
+    },
+    {
+      "path": "/about",
+      "timestamp": 1794013191809
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1794038073178
+    },
+    {
+      "path": "/",
+      "timestamp": 1794030765760
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1794038239106
+    },
+    {
+      "path": "/about",
+      "timestamp": 1794023580935
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1794032062522
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1794030722479
+    },
+    {
+      "path": "/product",
+      "timestamp": 1794038020871
+    },
+    {
+      "path": "/",
+      "timestamp": 1793988313419
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1794036600070
+    },
+    {
+      "path": "/product",
+      "timestamp": 1794034767089
+    },
+    {
+      "path": "/",
+      "timestamp": 1793986676294
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1794067435267
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1794028495709
+    },
+    {
+      "path": "/product",
+      "timestamp": 1794055058876
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1794004054051
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1794023619232
+    },
+    {
+      "path": "/product",
+      "timestamp": 1794026599555
+    },
+    {
+      "path": "/",
+      "timestamp": 1794046976572
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1794028420805
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1794035937915
+    },
+    {
+      "path": "/about",
+      "timestamp": 1794017018391
+    },
+    {
+      "path": "/",
+      "timestamp": 1794011645356
+    },
+    {
+      "path": "/about",
+      "timestamp": 1794039340263
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1794067552637
+    },
+    {
+      "path": "/",
+      "timestamp": 1794040822764
+    },
+    {
+      "path": "/about",
+      "timestamp": 1794054304204
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1793986585748
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1794036402841
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1794008764581
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1794015860077
+    },
+    {
+      "path": "/",
+      "timestamp": 1794018756032
+    },
+    {
+      "path": "/product",
+      "timestamp": 1794007995671
+    },
+    {
+      "path": "/product",
+      "timestamp": 1794055000274
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1793996017161
+    },
+    {
+      "path": "/product",
+      "timestamp": 1794040593855
+    },
+    {
+      "path": "/about",
+      "timestamp": 1793996917507
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1794104976020
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1794119313327
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1794091353687
+    },
+    {
+      "path": "/about",
+      "timestamp": 1794110817894
+    },
+    {
+      "path": "/",
+      "timestamp": 1794157379218
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1794117898686
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1794106885109
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1794152015021
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1794150330700
+    },
+    {
+      "path": "/product",
+      "timestamp": 1794101442152
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1794150632707
+    },
+    {
+      "path": "/about",
+      "timestamp": 1794100476396
+    },
+    {
+      "path": "/product",
+      "timestamp": 1794103396974
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1794121994562
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1794080721443
+    },
+    {
+      "path": "/product",
+      "timestamp": 1794132031014
+    },
+    {
+      "path": "/product",
+      "timestamp": 1794075555053
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1794129480007
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1794098871732
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1794081920195
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1794148051604
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1794086299057
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1794154507117
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1794119073381
+    },
+    {
+      "path": "/product",
+      "timestamp": 1794151213069
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1794100732064
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1794090830444
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1794118480215
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1794149012939
+    },
+    {
+      "path": "/",
+      "timestamp": 1794140252952
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1794107419332
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1794127887529
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1794154562528
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1794148011831
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1794102215419
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1794146616738
+    },
+    {
+      "path": "/about",
+      "timestamp": 1794096791427
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1794143417531
+    },
+    {
+      "path": "/product",
+      "timestamp": 1794114476511
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1794117027761
+    },
+    {
+      "path": "/about",
+      "timestamp": 1794093988382
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1794111879534
+    },
+    {
+      "path": "/about",
+      "timestamp": 1794081843085
+    },
+    {
+      "path": "/",
+      "timestamp": 1794138755653
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1794134307335
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1794134130849
+    },
+    {
+      "path": "/product",
+      "timestamp": 1794094227392
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1794167485461
+    },
+    {
+      "path": "/product",
+      "timestamp": 1794203939926
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1794199150496
+    },
+    {
+      "path": "/about",
+      "timestamp": 1794205291212
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1794192666342
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1794168866999
+    },
+    {
+      "path": "/",
+      "timestamp": 1794208587726
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1794190582067
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1794174880093
+    },
+    {
+      "path": "/product",
+      "timestamp": 1794172195382
+    },
+    {
+      "path": "/about",
+      "timestamp": 1794238338722
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1794168303338
+    },
+    {
+      "path": "/about",
+      "timestamp": 1794189516706
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1794216148791
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1794200485505
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1794185969490
+    },
+    {
+      "path": "/about",
+      "timestamp": 1794190013572
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1794168591150
+    },
+    {
+      "path": "/about",
+      "timestamp": 1794192290835
+    },
+    {
+      "path": "/product",
+      "timestamp": 1794230466646
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1794163231545
+    },
+    {
+      "path": "/journey",
+      "timestamp": 1794177608144
+    },
+    {
+      "path": "/contact",
+      "timestamp": 1794163749666
+    },
+    {
+      "path": "/",
+      "timestamp": 1794199893339
+    },
+    {
+      "path": "/vision",
+      "timestamp": 1794230248518
+    },
+    {
+      "path": "/faq",
+      "timestamp": 1794186077602
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1794160393216
+    },
+    {
+      "path": "/exploring",
+      "timestamp": 1794221715326
+    },
+    {
+      "path": "/mission",
+      "timestamp": 1794158096583
+    },
+    {
+      "path": "/about",
+      "timestamp": 1794243012697
+    }
+  ],
+  "historyVersions": [
+    {
+      "id": "v-init",
+      "lang": "en",
+      "key": "hero.line1",
+      "action": "publish",
+      "changed_by": "system",
+      "at": "2026-11-05T17:04:41.529Z",
+      "before": "The future of intelligence.",
+      "after": "The future of intelligence is taking shape."
+    }
+  ],
+  "contentOverrides": {
+    "es": {
+      "nav.home": "Inicio",
+      "nav.about": "Nosotros",
+      "nav.vision": "Visión",
+      "nav.mission": "Misión",
+      "nav.philosophy": "Filosofía",
+      "nav.exploring": "Exploración",
+      "nav.product": "Producto",
+      "nav.journey": "Nuestro camino",
+      "nav.faq": "Preguntas frecuentes",
+      "nav.contact": "Contacto",
+      "nav.get_in_touch": "Contáctanos",
+      "nav.menu": "Menu",
+      "nav.close": "Close",
+      "nav.theme": "Toggle theme",
+      "nav.language": "Language",
+      "hero.eyebrow": "AUTONOMOUS // EMERGING TECHNOLOGY",
+      "hero.line1": "El futuro de la inteligencia está tomando forma.",
+      "hero.intro": "Una empresa tecnológica emergente que explora nuevas posibilidades en IA inteligente y automatización.",
+      "hero.believe": "Creemos que la tecnología debería hacer más, para que las personas logren más.",
+      "hero.building": "Algo diferente se está construyendo.",
+      "hero.cta_primary": "Explora nuestra visión",
+      "hero.cta_secondary": "Descubre qué estamos construyendo",
+      "hero.scroll": "Scroll to explore",
+      "marquee.items": "Intelligent AI / Autonomous Systems / Human-Technology Collaboration / Automation & Productivity /",
+      "about.label": "01 // ABOUT AUTONOMOUS",
+      "about.title": "Una empresa moldeada por una creencia simple.",
+      "about.p1": "AUTONOMOUS representa el compromiso con la próxima generación de experiencias inteligentes de IA y automatización. Nuestra dirección es clara: construir sistemas que simplifiquen los retos cotidianos y ayuden a las personas a centrarse en lo importante.",
+      "about.p2": "Intelligent technology matters because time and attention are the most valuable resources people have. Every repetitive task that a machine can carry out carefully and reliably is an opportunity for a person to create, decide and achieve more.",
+      "about.p3": "Our approach to innovation is deliberate. We explore, plan and build with care — preferring useful, dependable technology over novelty for its own sake.",
+      "about.p4": "Our long-term direction is an ecosystem of intelligent agents that work alongside people. The journey has begun, and it will unfold step by step.",
+      "about.why_title": "Why intelligent technology matters",
+      "about.problems_title": "The problems we want to address",
+      "about.problems": [
+        "Repetitive manual effort that consumes time and energy.",
+        "Complex tools that add friction instead of removing it.",
+        "Technology that demands attention instead of giving it back."
+      ],
+      "about.approach_title": "Our approach to innovation",
+      "about.approach_body": "We start from real human needs, keep what we build simple and useful, and refine continuously. We are building toward a future where technology becomes more capable, adaptive and useful.",
+      "about.direction_title": "Our long-term direction",
+      "vision.label": "02 // OUR VISION",
+      "vision.title": "Construir un ecosistema de agentes de IA inteligentes que simplifiquen la vida y el trabajo.",
+      "vision.body": "We imagine technology that understands context, acts with care and gives people back their time. Our vision guides every decision: intelligent systems that simplify life and work, quietly and dependably.",
+      "mission.label": "03 // OUR MISSION",
+      "mission.title": "Cuatro principios guían nuestro trabajo.",
+      "mission.intro": "Our mission is to create useful technology that empowers people rather than unnecessarily complicating their lives.",
+      "mission.item1_title": "Automatizar tareas repetitivas",
+      "mission.item1_body": "Develop intelligent technologies that automate repetitive tasks.",
+      "mission.item2_title": "Ayudar a trabajar con más inteligencia",
+      "mission.item2_body": "Build AI agents that help people work smarter, save time and achieve more.",
+      "mission.item3_title": "Transformar la interacción",
+      "mission.item3_body": "Explore autonomous systems that transform how individuals and businesses interact with technology.",
+      "mission.item4_title": "Empoderar, no complicar",
+      "mission.item4_body": "Create useful technology that empowers people rather than unnecessarily complicating their lives.",
+      "philosophy.label": "04 // OUR PHILOSOPHY",
+      "philosophy.title": "Intelligence in service of people.",
+      "philosophy.quote": "La tecnología no debería solo hacer que las personas trabajen más rápido. Debería ayudarles a lograr mejores resultados.",
+      "philosophy.p1": "We believe the future of technology lies in intelligent collaboration between humans and machines. Machines contribute speed, memory and consistency; people contribute judgment, creativity and purpose.",
+      "philosophy.p2": "Empowerment, usefulness and simplicity are our measures of success. Responsible innovation is our obligation: we build carefully, honestly and with respect for the people who will rely on what we make.",
+      "exploring.label": "05 // WHAT WE'RE EXPLORING",
+      "exploring.title": "Cuatro direcciones, una ambición.",
+      "exploring.intro": "We are exploring the building blocks of an intelligent future. Each area is a piece of the same puzzle.",
+      "exploring.item1_title": "IA inteligente",
+      "exploring.item1_body": "Systems that understand context and adapt to the way people actually live and work.",
+      "exploring.item2_title": "Sistemas autónomos",
+      "exploring.item2_body": "Technology that can carry out multi-step work with care, reliability and oversight.",
+      "exploring.item3_title": "Colaboración humano-tecnología",
+      "exploring.item3_body": "Interfaces where people and intelligent systems strengthen each other's strengths.",
+      "exploring.item4_title": "Automatización y productividad",
+      "exploring.item4_body": "Reducing repetitive manual effort so people can focus on what matters.",
+      "product.label": "06 // UPCOMING PRODUCT",
+      "product.title": "Algo diferente se está construyendo.",
+      "product.intro": "Deep in our workshop, a new kind of intelligent companion is taking form — assembled with patience, care and a bias for usefulness. We are not ready to share its name or its nature yet.",
+      "product.status": "Próximamente",
+      "product.future": "The future of intelligent technology is being assembled — carefully, deliberately.",
+      "product.popup_title": "WE'RE BUILDING SOMETHING EXTRAORDINARY",
+      "product.popup_message": "A new chapter in intelligent technology is on its way. Stay curious.",
+      "product.popup_close": "Close",
+      "journey.label": "07 // OUR JOURNEY",
+      "journey.title": "El camino ha comenzado.",
+      "journey.intro": "Every meaningful technology starts as an idea. Here is where ours stands today.",
+      "journey.current": "Current stage",
+      "faq.label": "08 // FREQUENTLY ASKED QUESTIONS",
+      "faq.title": "Preguntas, respondidas.",
+      "faq.q1": "What is AUTONOMOUS?",
+      "faq.a1": "AUTONOMOUS is an emerging technology company exploring the next generation of intelligent AI and automation experiences. We believe technology should do more, so people can achieve more.",
+      "faq.q2": "What is the vision of AUTONOMOUS?",
+      "faq.a2": "Our vision is to build an ecosystem of intelligent AI agents that can simplify life and work.",
+      "faq.q3": "What areas of technology are you exploring?",
+      "faq.a3": "We are exploring four connected areas: intelligent AI, autonomous systems, human-technology collaboration, and automation and productivity.",
+      "faq.q4": "How can I connect or collaborate?",
+      "faq.a4": "You can reach us through the contact form on this website, or write to us at autonomousai.support@gmail.com.",
+      "contact.label": "09 // CONNECT WITH US",
+      "contact.title": "Comienza la conversación.",
+      "contact.intro": "Questions, partnerships, collaborations or opportunities — we read every message.",
+      "contact.name": "Nombre completo",
+      "contact.email": "Correo electrónico",
+      "contact.reason": "Motivo de contacto",
+      "contact.subject": "Asunto",
+      "contact.message": "Mensaje",
+      "contact.name_ph": "Your full name",
+      "contact.email_ph": "you@example.com",
+      "contact.subject_ph": "How can we help?",
+      "contact.message_ph": "Tell us a little about your enquiry…",
+      "contact.reason_general": "General enquiry",
+      "contact.reason_business": "Business partnership",
+      "contact.reason_collab": "Collaboration",
+      "contact.reason_careers": "Careers / Opportunities",
+      "contact.reason_investor": "Investor enquiry",
+      "contact.reason_other": "Other",
+      "contact.submit": "Enviar mensaje",
+      "contact.sending": "Enviando…",
+      "contact.success": "Mensaje recibido. Gracias por contactar con AUTONOMOUS.",
+      "contact.error_required": "Please fill in all required fields.",
+      "contact.error_email": "Please enter a valid email address.",
+      "contact.error_rate": "You've reached the sending limit for now. Please try again later.",
+      "contact.error_duplicate": "This message was already received. Thank you!",
+      "contact.error_generic": "Something went wrong. Please try again.",
+      "contact.email_label": "Official email",
+      "contact.verify": "Verification",
+      "contact.verify_label": "Leave this field empty",
+      "footer.description": "An emerging technology company exploring the next generation of intelligent AI and automation experiences.",
+      "footer.quick": "Quick Navigation",
+      "footer.connect": "Connect",
+      "footer.legal": "Legal",
+      "footer.privacy": "Privacy Policy",
+      "footer.terms": "Terms of Service",
+      "footer.cookies": "Cookie Policy",
+      "footer.disclaimer": "Disclaimer",
+      "footer.rights": "Todos los derechos reservados.",
+      "notfound.title": "404 — Señal perdida en la red.",
+      "notfound.body": "The page you're looking for doesn't exist — but what we're building might be even more interesting.",
+      "notfound.cta": "Volver al inicio",
+      "maintenance.title": "Volvemos enseguida.",
+      "maintenance.body": "AUTONOMOUS is undergoing scheduled maintenance. We're making things better — please check back soon.",
+      "maintenance.eta_label": "Estimated return",
+      "legal.privacy_title": "Privacy Policy",
+      "legal.terms_title": "Terms of Service",
+      "legal.cookies_title": "Cookie Policy",
+      "legal.disclaimer_title": "Disclaimer",
+      "legal.review_note": "This document is a draft prepared from the website's actual functionality and is marked for professional legal review before publication.",
+      "common.loading": "Loading…",
+      "common.error": "Something went wrong.",
+      "common.retry": "Retry",
+      "common.back_home": "Back home",
+      "legal.privacy": "Privacy Policy",
+      "legal.terms": "Terms of Service",
+      "legal.cookies": "Cookie Policy",
+      "legal.disclaimer": "Disclaimer"
+    },
+    "ml": {
+      "nav.home": "ഹോം",
+      "nav.about": "കുറിച്ച്",
+      "nav.vision": "ദർശനം",
+      "nav.mission": "ലക്ഷ്യം",
+      "nav.philosophy": "തത്വശാസ്ത്രം",
+      "nav.exploring": "പര്യവേക്ഷണം",
+      "nav.product": "ഉൽപ്പന്നം",
+      "nav.journey": "യാത്ര",
+      "nav.faq": "ചോദ്യങ്ങൾ",
+      "nav.contact": "ബന്ധപ്പെടുക",
+      "nav.get_in_touch": "ബന്ധപ്പെടുക",
+      "nav.menu": "Menu",
+      "nav.close": "Close",
+      "nav.theme": "Toggle theme",
+      "nav.language": "Language",
+      "hero.eyebrow": "AUTONOMOUS // EMERGING TECHNOLOGY",
+      "hero.line1": "ബുദ്ധിമത്തത്തിന്റെ ഭാവി രൂപപ്പെട്ടുകൊണ്ടിരിക്കുന്നു.",
+      "hero.intro": "ബുദ്ധിമാനായ AI-ലും ഓട്ടോമേഷനിലും പുതിയ സാധ്യതകൾ പര്യവേക്ഷണം ചെയ്യുന്ന ഒരു ഉയരുന്ന സാങ്കേതികവിദ്യാ കമ്പനി.",
+      "hero.believe": "കൂടുതൽ നേടാൻ ആളുകൾക്ക് സാങ്കേതികവിദ്യ കൂടുതൽ ചെയ്യണമെന്ന് ഞങ്ങൾ വിശ്വസിക്കുന്നു.",
+      "hero.building": "വ്യത്യസ്തമായ എന്തോ നിർമ്മിക്കപ്പെടുന്നു.",
+      "hero.cta_primary": "ഞങ്ങളുടെ ദർശനം പരിശോധിക്കുക",
+      "hero.cta_secondary": "ഞങ്ങൾ നിർമ്മിക്കുന്നത് കണ്ടെത്തുക",
+      "hero.scroll": "Scroll to explore",
+      "marquee.items": "Intelligent AI / Autonomous Systems / Human-Technology Collaboration / Automation & Productivity /",
+      "about.label": "01 // ABOUT AUTONOMOUS",
+      "about.title": "ലളിതമായ ഒരു വിശ്വാസത്താൽ രൂപപ്പെട്ട കമ്പനി.",
+      "about.p1": "ദൈനംദിന വെല്ലുവിളികൾ ലളിതമാക്കുകയും ആവർത്തനമുള്ള അധ്വാനം കുറയ്ക്കുകയും ആളുകൾക്ക് പ്രധാനപ്പെട്ട കാര്യങ്ങളിൽ ശ്രദ്ധ കേന്ദ്രീകരിക്കാൻ സഹായിക്കുകയും ചെയ്യുന്ന സിസ്റ്റങ്ങൾ നിർമ്മിക്കുക എന്ന വ്യക്തമായ ദിശയുള്ള ഒരു ഉയരുന്ന സാങ്കേതികവിദ്യാ കമ്പനിയാണ് AUTONOMOUS.",
+      "about.p2": "Intelligent technology matters because time and attention are the most valuable resources people have. Every repetitive task that a machine can carry out carefully and reliably is an opportunity for a person to create, decide and achieve more.",
+      "about.p3": "Our approach to innovation is deliberate. We explore, plan and build with care — preferring useful, dependable technology over novelty for its own sake.",
+      "about.p4": "Our long-term direction is an ecosystem of intelligent agents that work alongside people. The journey has begun, and it will unfold step by step.",
+      "about.why_title": "Why intelligent technology matters",
+      "about.problems_title": "The problems we want to address",
+      "about.problems": [
+        "Repetitive manual effort that consumes time and energy.",
+        "Complex tools that add friction instead of removing it.",
+        "Technology that demands attention instead of giving it back."
+      ],
+      "about.approach_title": "Our approach to innovation",
+      "about.approach_body": "We start from real human needs, keep what we build simple and useful, and refine continuously. We are building toward a future where technology becomes more capable, adaptive and useful.",
+      "about.direction_title": "Our long-term direction",
+      "vision.label": "02 // OUR VISION",
+      "vision.title": "ജീവിതവും ജോലിയും ലളിതമാക്കാൻ കഴിയുന്ന ബുദ്ധിമാനായ AI ഏജന്റുകളുടെ ഒരു ആവാസവ്യവസ്ഥ സൃഷ്ടിക്കുക.",
+      "vision.body": "We imagine technology that understands context, acts with care and gives people back their time. Our vision guides every decision: intelligent systems that simplify life and work, quietly and dependably.",
+      "mission.label": "03 // OUR MISSION",
+      "mission.title": "ഞങ്ങളുടെ പ്രവർത്തനത്തെ നയിക്കുന്ന നാല് തത്വങ്ങൾ.",
+      "mission.intro": "Our mission is to create useful technology that empowers people rather than unnecessarily complicating their lives.",
+      "mission.item1_title": "ആവർത്തന ജോലികൾ ഓട്ടോമേറ്റ് ചെയ്യുക",
+      "mission.item1_body": "Develop intelligent technologies that automate repetitive tasks.",
+      "mission.item2_title": "ആളുക���െ മികച്ച രീതിയിൽ ജോലി ചെയ്യാൻ സഹായിക്കുക",
+      "mission.item2_body": "Build AI agents that help people work smarter, save time and achieve more.",
+      "mission.item3_title": "ഇടപെടൽ മാറ്റുക",
+      "mission.item3_body": "Explore autonomous systems that transform how individuals and businesses interact with technology.",
+      "mission.item4_title": "സങ്കീർത്തിക്കാതെ ശാക്തീകരിക്കുക",
+      "mission.item4_body": "Create useful technology that empowers people rather than unnecessarily complicating their lives.",
+      "philosophy.label": "04 // OUR PHILOSOPHY",
+      "philosophy.title": "Intelligence in service of people.",
+      "philosophy.quote": "സാങ്കേതികവിദ്യ ആളുകളെ വെറുതെ വേഗത്തിൽ ജോലി ചെയ്യിക്കുക മാത്രം ചെയ്യരുത്. മികച്ച ഫലങ്ങൾ നേടാൻ അത് സഹായിക്കണം.",
+      "philosophy.p1": "We believe the future of technology lies in intelligent collaboration between humans and machines. Machines contribute speed, memory and consistency; people contribute judgment, creativity and purpose.",
+      "philosophy.p2": "Empowerment, usefulness and simplicity are our measures of success. Responsible innovation is our obligation: we build carefully, honestly and with respect for the people who will rely on what we make.",
+      "exploring.label": "05 // WHAT WE'RE EXPLORING",
+      "exploring.title": "നാല് ദിശകൾ, ഒരു ലക്ഷ്യം.",
+      "exploring.intro": "We are exploring the building blocks of an intelligent future. Each area is a piece of the same puzzle.",
+      "exploring.item1_title": "ബുദ്ധിമാനായ AI",
+      "exploring.item1_body": "Systems that understand context and adapt to the way people actually live and work.",
+      "exploring.item2_title": "ഓട്ടോണമസ് സിസ്റ്റങ്ങൾ",
+      "exploring.item2_body": "Technology that can carry out multi-step work with care, reliability and oversight.",
+      "exploring.item3_title": "മനുഷ്യ-സാങ്കേതിക സഹകരണം",
+      "exploring.item3_body": "Interfaces where people and intelligent systems strengthen each other's strengths.",
+      "exploring.item4_title": "ഓട്ടോമേഷനും ഉൽപ്പാദനക്ഷമതയും",
+      "exploring.item4_body": "Reducing repetitive manual effort so people can focus on what matters.",
+      "product.label": "06 // UPCOMING PRODUCT",
+      "product.title": "വ്യത്യസ്തമായ എന്തോ നിർമ്മിക്കപ്പെടുന്നു.",
+      "product.intro": "Deep in our workshop, a new kind of intelligent companion is taking form — assembled with patience, care and a bias for usefulness. We are not ready to share its name or its nature yet.",
+      "product.status": "ഉടൻ വരുന്നു",
+      "product.future": "The future of intelligent technology is being assembled — carefully, deliberately.",
+      "product.popup_title": "WE'RE BUILDING SOMETHING EXTRAORDINARY",
+      "product.popup_message": "A new chapter in intelligent technology is on its way. Stay curious.",
+      "product.popup_close": "Close",
+      "journey.label": "07 // OUR JOURNEY",
+      "journey.title": "യാത്ര ആരംഭിച്ചു.",
+      "journey.intro": "Every meaningful technology starts as an idea. Here is where ours stands today.",
+      "journey.current": "Current stage",
+      "faq.label": "08 // FREQUENTLY ASKED QUESTIONS",
+      "faq.title": "ചോദ്യങ്ങൾക്ക് ഉത്തരം.",
+      "faq.q1": "What is AUTONOMOUS?",
+      "faq.a1": "AUTONOMOUS is an emerging technology company exploring the next generation of intelligent AI and automation experiences. We believe technology should do more, so people can achieve more.",
+      "faq.q2": "What is the vision of AUTONOMOUS?",
+      "faq.a2": "Our vision is to build an ecosystem of intelligent AI agents that can simplify life and work.",
+      "faq.q3": "What areas of technology are you exploring?",
+      "faq.a3": "We are exploring four connected areas: intelligent AI, autonomous systems, human-technology collaboration, and automation and productivity.",
+      "faq.q4": "How can I connect or collaborate?",
+      "faq.a4": "You can reach us through the contact form on this website, or write to us at autonomousai.support@gmail.com.",
+      "contact.label": "09 // CONNECT WITH US",
+      "contact.title": "സംഭാഷണം ആരംഭിക്കുക.",
+      "contact.intro": "Questions, partnerships, collaborations or opportunities — we read every message.",
+      "contact.name": "പൂർണ്ണ പേര്",
+      "contact.email": "ഇമെയിൽ വിലാസം",
+      "contact.reason": "ബന്ധപ്പെടാനുള്ള കാരണം",
+      "contact.subject": "വിഷയം",
+      "contact.message": "സന്ദേശം",
+      "contact.name_ph": "Your full name",
+      "contact.email_ph": "you@example.com",
+      "contact.subject_ph": "How can we help?",
+      "contact.message_ph": "Tell us a little about your enquiry…",
+      "contact.reason_general": "General enquiry",
+      "contact.reason_business": "Business partnership",
+      "contact.reason_collab": "Collaboration",
+      "contact.reason_careers": "Careers / Opportunities",
+      "contact.reason_investor": "Investor enquiry",
+      "contact.reason_other": "Other",
+      "contact.submit": "സന്ദേശം അയക്കുക",
+      "contact.sending": "അയക്കുന്നു…",
+      "contact.success": "സന്ദേശം ലഭിച്ചു. AUTONOMOUS-ലേക്ക് ബന്ധപ്പെട്ടതിന് നന്ദി.",
+      "contact.error_required": "Please fill in all required fields.",
+      "contact.error_email": "Please enter a valid email address.",
+      "contact.error_rate": "You've reached the sending limit for now. Please try again later.",
+      "contact.error_duplicate": "This message was already received. Thank you!",
+      "contact.error_generic": "Something went wrong. Please try again.",
+      "contact.email_label": "Official email",
+      "contact.verify": "Verification",
+      "contact.verify_label": "Leave this field empty",
+      "footer.description": "An emerging technology company exploring the next generation of intelligent AI and automation experiences.",
+      "footer.quick": "Quick Navigation",
+      "footer.connect": "Connect",
+      "footer.legal": "Legal",
+      "footer.privacy": "Privacy Policy",
+      "footer.terms": "Terms of Service",
+      "footer.cookies": "Cookie Policy",
+      "footer.disclaimer": "Disclaimer",
+      "footer.rights": "എല്ലാ അവകാശങ്ങളും സംരക്ഷിതമാണ്.",
+      "notfound.title": "404 — ഗ്രിഡിൽ സിഗ്നൽ നഷ്ടപ്പെട്ടു.",
+      "notfound.body": "The page you're looking for doesn't exist — but what we're building might be even more interesting.",
+      "notfound.cta": "ഹോമിലേക്ക് മടങ്ങുക",
+      "maintenance.title": "ഞങ്ങൾ ഉടൻ തിരിച്ചുവരും.",
+      "maintenance.body": "AUTONOMOUS is undergoing scheduled maintenance. We're making things better — please check back soon.",
+      "maintenance.eta_label": "Estimated return",
+      "legal.privacy_title": "Privacy Policy",
+      "legal.terms_title": "Terms of Service",
+      "legal.cookies_title": "Cookie Policy",
+      "legal.disclaimer_title": "Disclaimer",
+      "legal.review_note": "This document is a draft prepared from the website's actual functionality and is marked for professional legal review before publication.",
+      "common.loading": "Loading…",
+      "common.error": "Something went wrong.",
+      "common.retry": "Retry",
+      "common.back_home": "Back home",
+      "legal.privacy": "Privacy Policy",
+      "legal.terms": "Terms of Service",
+      "legal.cookies": "Cookie Policy",
+      "legal.disclaimer": "Disclaimer"
+    },
+    "hi": {
+      "nav.home": "होम",
+      "nav.about": "हमारे बारे में",
+      "nav.vision": "दृष्टि",
+      "nav.mission": "मिशन",
+      "nav.philosophy": "दर्शन",
+      "nav.exploring": "अन्वेषण",
+      "nav.product": "उत्पाद",
+      "nav.journey": "हमारी यात्रा",
+      "nav.faq": "सामान्य प्रश्न",
+      "nav.contact": "संपर्क",
+      "nav.get_in_touch": "संपर्क करें",
+      "nav.menu": "Menu",
+      "nav.close": "Close",
+      "nav.theme": "Toggle theme",
+      "nav.language": "Language",
+      "hero.eyebrow": "AUTONOMOUS // EMERGING TECHNOLOGY",
+      "hero.line1": "बुद्धिमत्ता का भविष्य आकार ले रहा है।",
+      "hero.intro": "बुद्धिमान AI और ऑटोमेशन में नई संभावनाओं की खोज करने वाली एक उभरती तकनीकी कंपनी।",
+      "hero.believe": "हम मानते हैं कि तकनीक को और करना चाहिए, ताकि लोग और हासिल कर सकें।",
+      "hero.building": "कुछ अलग बनाया जा रहा है।",
+      "hero.cta_primary": "हमारी दृष्टि देखें",
+      "hero.cta_secondary": "जानें हम क्या बना रहे हैं",
+      "hero.scroll": "Scroll to explore",
+      "marquee.items": "Intelligent AI / Autonomous Systems / Human-Technology Collaboration / Automation & Productivity /",
+      "about.label": "01 // ABOUT AUTONOMOUS",
+      "about.title": "एक सरल विश्वास से आकार लेती कंपनी।",
+      "about.p1": "AUTONOMOUS बुद्धिमान AI और ऑटोमेशन अनुभवों की अगली पीढ़ी क��� प्रति प्रतिबद्धता है। हमारी स्पष्ट दिशा है: ऐसे सिस्टम बनाना जो रोज़मर्रा की चुनौतियों को सरल बनाएँ और लोगों को ज़रूरी चीज़ों पर ध्यान देने में मदद करें।",
+      "about.p2": "Intelligent technology matters because time and attention are the most valuable resources people have. Every repetitive task that a machine can carry out carefully and reliably is an opportunity for a person to create, decide and achieve more.",
+      "about.p3": "Our approach to innovation is deliberate. We explore, plan and build with care — preferring useful, dependable technology over novelty for its own sake.",
+      "about.p4": "Our long-term direction is an ecosystem of intelligent agents that work alongside people. The journey has begun, and it will unfold step by step.",
+      "about.why_title": "Why intelligent technology matters",
+      "about.problems_title": "The problems we want to address",
+      "about.problems": [
+        "Repetitive manual effort that consumes time and energy.",
+        "Complex tools that add friction instead of removing it.",
+        "Technology that demands attention instead of giving it back."
+      ],
+      "about.approach_title": "Our approach to innovation",
+      "about.approach_body": "We start from real human needs, keep what we build simple and useful, and refine continuously. We are building toward a future where technology becomes more capable, adaptive and useful.",
+      "about.direction_title": "Our long-term direction",
+      "vision.label": "02 // OUR VISION",
+      "vision.title": "बुद्धिमान AI एजेंटों का एक तंत्र बनाना जो जीवन और कार्य को सरल बना सके।",
+      "vision.body": "We imagine technology that understands context, acts with care and gives people back their time. Our vision guides every decision: intelligent systems that simplify life and work, quietly and dependably.",
+      "mission.label": "03 // OUR MISSION",
+      "mission.title": "चार सिद्धांत हमारे कार्य का मार्गदर्शन करते हैं।",
+      "mission.intro": "Our mission is to create useful technology that empowers people rather than unnecessarily complicating their lives.",
+      "mission.item1_title": "दोहराव वाले कार्य स्वचालित करें",
+      "mission.item1_body": "Develop intelligent technologies that automate repetitive tasks.",
+      "mission.item2_title": "लोगों को स्मार्ट काम में मदद करें",
+      "mission.item2_body": "Build AI agents that help people work smarter, save time and achieve more.",
+      "mission.item3_title": "अंतःक्रिया बदलें",
+      "mission.item3_body": "Explore autonomous systems that transform how individuals and businesses interact with technology.",
+      "mission.item4_title": "जटिल न बनाएँ, सशक्त बनाएँ",
+      "mission.item4_body": "Create useful technology that empowers people rather than unnecessarily complicating their lives.",
+      "philosophy.label": "04 // OUR PHILOSOPHY",
+      "philosophy.title": "Intelligence in service of people.",
+      "philosophy.quote": "तकनीक का काम सिर्फ़ लोगों को तेज़ काम कराना नहीं है। उन्हें बेहतर परिणाम हासिल करने में मदद करना है।",
+      "philosophy.p1": "We believe the future of technology lies in intelligent collaboration between humans and machines. Machines contribute speed, memory and consistency; people contribute judgment, creativity and purpose.",
+      "philosophy.p2": "Empowerment, usefulness and simplicity are our measures of success. Responsible innovation is our obligation: we build carefully, honestly and with respect for the people who will rely on what we make.",
+      "exploring.label": "05 // WHAT WE'RE EXPLORING",
+      "exploring.title": "चार दिश���एँ, एक महत्वाकांक्षा।",
+      "exploring.intro": "We are exploring the building blocks of an intelligent future. Each area is a piece of the same puzzle.",
+      "exploring.item1_title": "बुद्धिमान AI",
+      "exploring.item1_body": "Systems that understand context and adapt to the way people actually live and work.",
+      "exploring.item2_title": "स्वायत्त प्रणालियाँ",
+      "exploring.item2_body": "Technology that can carry out multi-step work with care, reliability and oversight.",
+      "exploring.item3_title": "मानव-तकनीक सहयोग",
+      "exploring.item3_body": "Interfaces where people and intelligent systems strengthen each other's strengths.",
+      "exploring.item4_title": "ऑटोमेशन और उत्पादकता",
+      "exploring.item4_body": "Reducing repetitive manual effort so people can focus on what matters.",
+      "product.label": "06 // UPCOMING PRODUCT",
+      "product.title": "कुछ अलग बनाया जा रहा है।",
+      "product.intro": "Deep in our workshop, a new kind of intelligent companion is taking form — assembled with patience, care and a bias for usefulness. We are not ready to share its name or its nature yet.",
+      "product.status": "जल्द आ रहा है",
+      "product.future": "The future of intelligent technology is being assembled — carefully, deliberately.",
+      "product.popup_title": "WE'RE BUILDING SOMETHING EXTRAORDINARY",
+      "product.popup_message": "A new chapter in intelligent technology is on its way. Stay curious.",
+      "product.popup_close": "Close",
+      "journey.label": "07 // OUR JOURNEY",
+      "journey.title": "यात्रा शुरू हो चुकी है।",
+      "journey.intro": "Every meaningful technology starts as an idea. Here is where ours stands today.",
+      "journey.current": "Current stage",
+      "faq.label": "08 // FREQUENTLY ASKED QUESTIONS",
+      "faq.title": "प्रश्नों के उत्तर।",
+      "faq.q1": "What is AUTONOMOUS?",
+      "faq.a1": "AUTONOMOUS is an emerging technology company exploring the next generation of intelligent AI and automation experiences. We believe technology should do more, so people can achieve more.",
+      "faq.q2": "What is the vision of AUTONOMOUS?",
+      "faq.a2": "Our vision is to build an ecosystem of intelligent AI agents that can simplify life and work.",
+      "faq.q3": "What areas of technology are you exploring?",
+      "faq.a3": "We are exploring four connected areas: intelligent AI, autonomous systems, human-technology collaboration, and automation and productivity.",
+      "faq.q4": "How can I connect or collaborate?",
+      "faq.a4": "You can reach us through the contact form on this website, or write to us at autonomousai.support@gmail.com.",
+      "contact.label": "09 // CONNECT WITH US",
+      "contact.title": "बातचीत शुरू करें।",
+      "contact.intro": "Questions, partnerships, collaborations or opportunities — we read every message.",
+      "contact.name": "पूरा नाम",
+      "contact.email": "ईमेल पता",
+      "contact.reason": "संपर्क का कारण",
+      "contact.subject": "विषय",
+      "contact.message": "संदेश",
+      "contact.name_ph": "Your full name",
+      "contact.email_ph": "you@example.com",
+      "contact.subject_ph": "How can we help?",
+      "contact.message_ph": "Tell us a little about your enquiry…",
+      "contact.reason_general": "General enquiry",
+      "contact.reason_business": "Business partnership",
+      "contact.reason_collab": "Collaboration",
+      "contact.reason_careers": "Careers / Opportunities",
+      "contact.reason_investor": "Investor enquiry",
+      "contact.reason_other": "Other",
+      "contact.submit": "संदेश भेजें",
+      "contact.sending": "भेजा जा रहा है…",
+      "contact.success": "संदेश मिल गया। AUTONOMOUS तक संपर्क करने के लिए धन्यवाद।",
+      "contact.error_required": "Please fill in all required fields.",
+      "contact.error_email": "Please enter a valid email address.",
+      "contact.error_rate": "You've reached the sending limit for now. Please try again later.",
+      "contact.error_duplicate": "This message was already received. Thank you!",
+      "contact.error_generic": "Something went wrong. Please try again.",
+      "contact.email_label": "Official email",
+      "contact.verify": "Verification",
+      "contact.verify_label": "Leave this field empty",
+      "footer.description": "An emerging technology company exploring the next generation of intelligent AI and automation experiences.",
+      "footer.quick": "Quick Navigation",
+      "footer.connect": "Connect",
+      "footer.legal": "Legal",
+      "footer.privacy": "Privacy Policy",
+      "footer.terms": "Terms of Service",
+      "footer.cookies": "Cookie Policy",
+      "footer.disclaimer": "Disclaimer",
+      "footer.rights": "सर्वाधिकार सुरक्षित।",
+      "notfound.title": "404 — ग्रिड में सिग्नल खो गया।",
+      "notfound.body": "The page you're looking for doesn't exist — but what we're building might be even more interesting.",
+      "notfound.cta": "होम पर जाएँ",
+      "maintenance.title": "हम जल्द ही लौटेंगे।",
+      "maintenance.body": "AUTONOMOUS is undergoing scheduled maintenance. We're making things better — please check back soon.",
+      "maintenance.eta_label": "Estimated return",
+      "legal.privacy_title": "Privacy Policy",
+      "legal.terms_title": "Terms of Service",
+      "legal.cookies_title": "Cookie Policy",
+      "legal.disclaimer_title": "Disclaimer",
+      "legal.review_note": "This document is a draft prepared from the website's actual functionality and is marked for professional legal review before publication.",
+      "common.loading": "Loading…",
+      "common.error": "Something went wrong.",
+      "common.retry": "Retry",
+      "common.back_home": "Back home",
+      "legal.privacy": "Privacy Policy",
+      "legal.terms": "Terms of Service",
+      "legal.cookies": "Cookie Policy",
+      "legal.disclaimer": "Disclaimer"
+    },
+    "de": {
+      "nav.home": "Start",
+      "nav.about": "Über uns",
+      "nav.vision": "Vision",
+      "nav.mission": "Mission",
+      "nav.philosophy": "Philosophie",
+      "nav.exploring": "Forschung",
+      "nav.product": "Produkt",
+      "nav.journey": "Unsere Reise",
+      "nav.faq": "FAQ",
+      "nav.contact": "Kontakt",
+      "nav.get_in_touch": "Kontakt aufnehmen",
+      "nav.menu": "Menu",
+      "nav.close": "Close",
+      "nav.theme": "Toggle theme",
+      "nav.language": "Language",
+      "hero.eyebrow": "AUTONOMOUS // EMERGING TECHNOLOGY",
+      "hero.line1": "Die Zukunft der Intelligenz nimmt Gestalt an.",
+      "hero.intro": "Ein aufstrebendes Technologieunternehmen, das neue Möglichkeiten in intelligenter KI und Automatisierung erforscht.",
+      "hero.believe": "Wir glauben, dass Technologie mehr tun sollte, damit Menschen mehr erreichen können.",
+      "hero.building": "Etwas anderes entsteht.",
+      "hero.cta_primary": "Unsere Vision entdecken",
+      "hero.cta_secondary": "Entdecken, was wir bauen",
+      "hero.scroll": "Scroll to explore",
+      "marquee.items": "Intelligent AI / Autonomous Systems / Human-Technology Collaboration / Automation & Productivity /",
+      "about.label": "01 // ABOUT AUTONOMOUS",
+      "about.title": "Ein Unternehmen, geprägt von einem einfachen Glauben.",
+      "about.p1": "AUTONOMUS steht für die nächste Generation intelligenter KI- und Automatisierungserlebnisse. Unsere klare Richtung: Systeme bauen, die Alltagsherausforderungen vereinfachen und Menschen helfen, sich auf das Wesentliche zu konzentrieren.",
+      "about.p2": "Intelligent technology matters because time and attention are the most valuable resources people have. Every repetitive task that a machine can carry out carefully and reliably is an opportunity for a person to create, decide and achieve more.",
+      "about.p3": "Our approach to innovation is deliberate. We explore, plan and build with care — preferring useful, dependable technology over novelty for its own sake.",
+      "about.p4": "Our long-term direction is an ecosystem of intelligent agents that work alongside people. The journey has begun, and it will unfold step by step.",
+      "about.why_title": "Why intelligent technology matters",
+      "about.problems_title": "The problems we want to address",
+      "about.problems": [
+        "Repetitive manual effort that consumes time and energy.",
+        "Complex tools that add friction instead of removing it.",
+        "Technology that demands attention instead of giving it back."
+      ],
+      "about.approach_title": "Our approach to innovation",
+      "about.approach_body": "We start from real human needs, keep what we build simple and useful, and refine continuously. We are building toward a future where technology becomes more capable, adaptive and useful.",
+      "about.direction_title": "Our long-term direction",
+      "vision.label": "02 // OUR VISION",
+      "vision.title": "Ein Ökosystem intelligenter KI-Agenten aufbauen, das Leben und Arbeit vereinfacht.",
+      "vision.body": "We imagine technology that understands context, acts with care and gives people back their time. Our vision guides every decision: intelligent systems that simplify life and work, quietly and dependably.",
+      "mission.label": "03 // OUR MISSION",
+      "mission.title": "Vier Prinzipien leiten unsere Arbeit.",
+      "mission.intro": "Our mission is to create useful technology that empowers people rather than unnecessarily complicating their lives.",
+      "mission.item1_title": "Wiederholende Aufgaben automatisieren",
+      "mission.item1_body": "Develop intelligent technologies that automate repetitive tasks.",
+      "mission.item2_title": "Menschen helfen, klüger zu arbeiten",
+      "mission.item2_body": "Build AI agents that help people work smarter, save time and achieve more.",
+      "mission.item3_title": "Interaktion verändern",
+      "mission.item3_body": "Explore autonomous systems that transform how individuals and businesses interact with technology.",
+      "mission.item4_title": "Befähigen statt verkomplizieren",
+      "mission.item4_body": "Create useful technology that empowers people rather than unnecessarily complicating their lives.",
+      "philosophy.label": "04 // OUR PHILOSOPHY",
+      "philosophy.title": "Intelligence in service of people.",
+      "philosophy.quote": "Technologie sollte Menschen nicht nur schneller arbeiten lassen. Sie sollte ihnen helfen, bessere Ergebnisse zu erzielen.",
+      "philosophy.p1": "We believe the future of technology lies in intelligent collaboration between humans and machines. Machines contribute speed, memory and consistency; people contribute judgment, creativity and purpose.",
+      "philosophy.p2": "Empowerment, usefulness and simplicity are our measures of success. Responsible innovation is our obligation: we build carefully, honestly and with respect for the people who will rely on what we make.",
+      "exploring.label": "05 // WHAT WE'RE EXPLORING",
+      "exploring.title": "Vier Richtungen, ein Ehrgeiz.",
+      "exploring.intro": "We are exploring the building blocks of an intelligent future. Each area is a piece of the same puzzle.",
+      "exploring.item1_title": "Intelligente KI",
+      "exploring.item1_body": "Systems that understand context and adapt to the way people actually live and work.",
+      "exploring.item2_title": "Autonome Systeme",
+      "exploring.item2_body": "Technology that can carry out multi-step work with care, reliability and oversight.",
+      "exploring.item3_title": "Mensch-Technologie-Kollaboration",
+      "exploring.item3_body": "Interfaces where people and intelligent systems strengthen each other's strengths.",
+      "exploring.item4_title": "Automatisierung & Produktivität",
+      "exploring.item4_body": "Reducing repetitive manual effort so people can focus on what matters.",
+      "product.label": "06 // UPCOMING PRODUCT",
+      "product.title": "Etwas anderes entsteht.",
+      "product.intro": "Deep in our workshop, a new kind of intelligent companion is taking form — assembled with patience, care and a bias for usefulness. We are not ready to share its name or its nature yet.",
+      "product.status": "Demnächst",
+      "product.future": "The future of intelligent technology is being assembled — carefully, deliberately.",
+      "product.popup_title": "WE'RE BUILDING SOMETHING EXTRAORDINARY",
+      "product.popup_message": "A new chapter in intelligent technology is on its way. Stay curious.",
+      "product.popup_close": "Close",
+      "journey.label": "07 // OUR JOURNEY",
+      "journey.title": "Die Reise hat begonnen.",
+      "journey.intro": "Every meaningful technology starts as an idea. Here is where ours stands today.",
+      "journey.current": "Current stage",
+      "faq.label": "08 // FREQUENTLY ASKED QUESTIONS",
+      "faq.title": "Fragen, beantwortet.",
+      "faq.q1": "What is AUTONOMOUS?",
+      "faq.a1": "AUTONOMOUS is an emerging technology company exploring the next generation of intelligent AI and automation experiences. We believe technology should do more, so people can achieve more.",
+      "faq.q2": "What is the vision of AUTONOMOUS?",
+      "faq.a2": "Our vision is to build an ecosystem of intelligent AI agents that can simplify life and work.",
+      "faq.q3": "What areas of technology are you exploring?",
+      "faq.a3": "We are exploring four connected areas: intelligent AI, autonomous systems, human-technology collaboration, and automation and productivity.",
+      "faq.q4": "How can I connect or collaborate?",
+      "faq.a4": "You can reach us through the contact form on this website, or write to us at autonomousai.support@gmail.com.",
+      "contact.label": "09 // CONNECT WITH US",
+      "contact.title": "Das Gespräch beginnen.",
+      "contact.intro": "Questions, partnerships, collaborations or opportunities — we read every message.",
+      "contact.name": "Vollständiger Name",
+      "contact.email": "E-Mail-Adresse",
+      "contact.reason": "Grund der Kontaktaufnahme",
+      "contact.subject": "Betreff",
+      "contact.message": "Nachricht",
+      "contact.name_ph": "Your full name",
+      "contact.email_ph": "you@example.com",
+      "contact.subject_ph": "How can we help?",
+      "contact.message_ph": "Tell us a little about your enquiry…",
+      "contact.reason_general": "General enquiry",
+      "contact.reason_business": "Business partnership",
+      "contact.reason_collab": "Collaboration",
+      "contact.reason_careers": "Careers / Opportunities",
+      "contact.reason_investor": "Investor enquiry",
+      "contact.reason_other": "Other",
+      "contact.submit": "Nachricht senden",
+      "contact.sending": "Wird gesendet…",
+      "contact.success": "Nachricht erhalten. Danke, dass Sie AUTONOMOUS kontaktiert haben.",
+      "contact.error_required": "Please fill in all required fields.",
+      "contact.error_email": "Please enter a valid email address.",
+      "contact.error_rate": "You've reached the sending limit for now. Please try again later.",
+      "contact.error_duplicate": "This message was already received. Thank you!",
+      "contact.error_generic": "Something went wrong. Please try again.",
+      "contact.email_label": "Official email",
+      "contact.verify": "Verification",
+      "contact.verify_label": "Leave this field empty",
+      "footer.description": "An emerging technology company exploring the next generation of intelligent AI and automation experiences.",
+      "footer.quick": "Quick Navigation",
+      "footer.connect": "Connect",
+      "footer.legal": "Legal",
+      "footer.privacy": "Privacy Policy",
+      "footer.terms": "Terms of Service",
+      "footer.cookies": "Cookie Policy",
+      "footer.disclaimer": "Disclaimer",
+      "footer.rights": "Alle Rechte vorbehalten.",
+      "notfound.title": "404 — Signal im Raster verloren.",
+      "notfound.body": "The page you're looking for doesn't exist — but what we're building might be even more interesting.",
+      "notfound.cta": "Zur Startseite",
+      "maintenance.title": "Wir sind gleich zurück.",
+      "maintenance.body": "AUTONOMOUS is undergoing scheduled maintenance. We're making things better — please check back soon.",
+      "maintenance.eta_label": "Estimated return",
+      "legal.privacy_title": "Privacy Policy",
+      "legal.terms_title": "Terms of Service",
+      "legal.cookies_title": "Cookie Policy",
+      "legal.disclaimer_title": "Disclaimer",
+      "legal.review_note": "This document is a draft prepared from the website's actual functionality and is marked for professional legal review before publication.",
+      "common.loading": "Loading…",
+      "common.error": "Something went wrong.",
+      "common.retry": "Retry",
+      "common.back_home": "Back home",
+      "legal.privacy": "Privacy Policy",
+      "legal.terms": "Terms of Service",
+      "legal.cookies": "Cookie Policy",
+      "legal.disclaimer": "Disclaimer"
+    },
+    "ar": {
+      "nav.home": "الرئيسية",
+      "nav.about": "من نحن",
+      "nav.vision": "الرؤية",
+      "nav.mission": "المهمة",
+      "nav.philosophy": "الفلسفة",
+      "nav.exploring": "ما نستكشفه",
+      "nav.product": "المنتج",
+      "nav.journey": "رحلتنا",
+      "nav.faq": "الأسئلة الشائعة",
+      "nav.contact": "اتصل بنا",
+      "nav.get_in_touch": "تواصل معنا",
+      "nav.menu": "Menu",
+      "nav.close": "Close",
+      "nav.theme": "Toggle theme",
+      "nav.language": "Language",
+      "hero.eyebrow": "AUTONOMOUS // EMERGING TECHNOLOGY",
+      "hero.line1": "مستقبل الذكاء يتشكل الآن.",
+      "hero.intro": "شركة تقنية ناشئة تستكشف إمكانيات جديدة في الذكاء الاصطناعي والأتمتة.",
+      "hero.believe": "نحن نؤمن بأن التكنولوجيا يجب أن تفعل المزيد، لكي يحقق الناس المزيد.",
+      "hero.building": "شيء مختلف قيد البناء.",
+      "hero.cta_primary": "استكشف رؤيتنا",
+      "hero.cta_secondary": "اكتشف ما نبنيه",
+      "hero.scroll": "Scroll to explore",
+      "marquee.items": "Intelligent AI / Autonomous Systems / Human-Technology Collaboration / Automation & Productivity /",
+      "about.label": "01 // ABOUT AUTONOMOUS",
+      "about.title": "شركة تشكّلها قناعة بسيطة.",
+      "about.p1": "تمثل AUTONOMOUS التزامًا بالجيل التالي من تجارب الذكاء الاصطناعي والأتمتة. اتجاهنا واضح: بناء أنظمة تبسّط تحديات الحياة اليومية وتساعد الناس على التركيز على ما يهم.",
+      "about.p2": "Intelligent technology matters because time and attention are the most valuable resources people have. Every repetitive task that a machine can carry out carefully and reliably is an opportunity for a person to create, decide and achieve more.",
+      "about.p3": "Our approach to innovation is deliberate. We explore, plan and build with care — preferring useful, dependable technology over novelty for its own sake.",
+      "about.p4": "Our long-term direction is an ecosystem of intelligent agents that work alongside people. The journey has begun, and it will unfold step by step.",
+      "about.why_title": "Why intelligent technology matters",
+      "about.problems_title": "The problems we want to address",
+      "about.problems": [
+        "Repetitive manual effort that consumes time and energy.",
+        "Complex tools that add friction instead of removing it.",
+        "Technology that demands attention instead of giving it back."
+      ],
+      "about.approach_title": "Our approach to innovation",
+      "about.approach_body": "We start from real human needs, keep what we build simple and useful, and refine continuously. We are building toward a future where technology becomes more capable, adaptive and useful.",
+      "about.direction_title": "Our long-term direction",
+      "vision.label": "02 // OUR VISION",
+      "vision.title": "بناء منظومة من وكلاء الذكاء الاصطناعي تبسّط الحياة والعمل.",
+      "vision.body": "We imagine technology that understands context, acts with care and gives people back their time. Our vision guides every decision: intelligent systems that simplify life and work, quietly and dependably.",
+      "mission.label": "03 // OUR MISSION",
+      "mission.title": "أربعة مبادئ توجّه عملنا.",
+      "mission.intro": "Our mission is to create useful technology that empowers people rather than unnecessarily complicating their lives.",
+      "mission.item1_title": "أتمتة المهام المتكررة",
+      "mission.item1_body": "Develop intelligent technologies that automate repetitive tasks.",
+      "mission.item2_title": "مساعدة الناس على العمل بذكاء أكبر",
+      "mission.item2_body": "Build AI agents that help people work smarter, save time and achieve more.",
+      "mission.item3_title": "تحويل التفاعل",
+      "mission.item3_body": "Explore autonomous systems that transform how individuals and businesses interact with technology.",
+      "mission.item4_title": "التمكين بدل التعقيد",
+      "mission.item4_body": "Create useful technology that empowers people rather than unnecessarily complicating their lives.",
+      "philosophy.label": "04 // OUR PHILOSOPHY",
+      "philosophy.title": "Intelligence in service of people.",
+      "philosophy.quote": "ينبغي ألا تقتصر مهمة التكنولوجيا على جعل الناس أسرع في العمل، بل مساعدتهم على تحقيق نتائج أفضل.",
+      "philosophy.p1": "We believe the future of technology lies in intelligent collaboration between humans and machines. Machines contribute speed, memory and consistency; people contribute judgment, creativity and purpose.",
+      "philosophy.p2": "Empowerment, usefulness and simplicity are our measures of success. Responsible innovation is our obligation: we build carefully, honestly and with respect for the people who will rely on what we make.",
+      "exploring.label": "05 // WHAT WE'RE EXPLORING",
+      "exploring.title": "أربعة اتجاهات، طموح واحد.",
+      "exploring.intro": "We are exploring the building blocks of an intelligent future. Each area is a piece of the same puzzle.",
+      "exploring.item1_title": "ذكاء اصطناعي ذكي",
+      "exploring.item1_body": "Systems that understand context and adapt to the way people actually live and work.",
+      "exploring.item2_title": "أنظمة ذاتية",
+      "exploring.item2_body": "Technology that can carry out multi-step work with care, reliability and oversight.",
+      "exploring.item3_title": "التعاون بين الإنسان والتكنولوجيا",
+      "exploring.item3_body": "Interfaces where people and intelligent systems strengthen each other's strengths.",
+      "exploring.item4_title": "الأتمتة والإنتاجية",
+      "exploring.item4_body": "Reducing repetitive manual effort so people can focus on what matters.",
+      "product.label": "06 // UPCOMING PRODUCT",
+      "product.title": "شيء مختلف قيد البناء.",
+      "product.intro": "Deep in our workshop, a new kind of intelligent companion is taking form — assembled with patience, care and a bias for usefulness. We are not ready to share its name or its nature yet.",
+      "product.status": "قريبًا",
+      "product.future": "The future of intelligent technology is being assembled — carefully, deliberately.",
+      "product.popup_title": "WE'RE BUILDING SOMETHING EXTRAORDINARY",
+      "product.popup_message": "A new chapter in intelligent technology is on its way. Stay curious.",
+      "product.popup_close": "Close",
+      "journey.label": "07 // OUR JOURNEY",
+      "journey.title": "لقد بدأت الرحلة.",
+      "journey.intro": "Every meaningful technology starts as an idea. Here is where ours stands today.",
+      "journey.current": "Current stage",
+      "faq.label": "08 // FREQUENTLY ASKED QUESTIONS",
+      "faq.title": "أسئلة بإجابات.",
+      "faq.q1": "What is AUTONOMOUS?",
+      "faq.a1": "AUTONOMOUS is an emerging technology company exploring the next generation of intelligent AI and automation experiences. We believe technology should do more, so people can achieve more.",
+      "faq.q2": "What is the vision of AUTONOMOUS?",
+      "faq.a2": "Our vision is to build an ecosystem of intelligent AI agents that can simplify life and work.",
+      "faq.q3": "What areas of technology are you exploring?",
+      "faq.a3": "We are exploring four connected areas: intelligent AI, autonomous systems, human-technology collaboration, and automation and productivity.",
+      "faq.q4": "How can I connect or collaborate?",
+      "faq.a4": "You can reach us through the contact form on this website, or write to us at autonomousai.support@gmail.com.",
+      "contact.label": "09 // CONNECT WITH US",
+      "contact.title": "ابدأ المحادثة.",
+      "contact.intro": "Questions, partnerships, collaborations or opportunities — we read every message.",
+      "contact.name": "الاسم الكامل",
+      "contact.email": "البريد الإلكتروني",
+      "contact.reason": "سبب التواصل",
+      "contact.subject": "الموضوع",
+      "contact.message": "الرسالة",
+      "contact.name_ph": "Your full name",
+      "contact.email_ph": "you@example.com",
+      "contact.subject_ph": "How can we help?",
+      "contact.message_ph": "Tell us a little about your enquiry…",
+      "contact.reason_general": "General enquiry",
+      "contact.reason_business": "Business partnership",
+      "contact.reason_collab": "Collaboration",
+      "contact.reason_careers": "Careers / Opportunities",
+      "contact.reason_investor": "Investor enquiry",
+      "contact.reason_other": "Other",
+      "contact.submit": "إرسال الرسالة",
+      "contact.sending": "جارٍ الإرسال…",
+      "contact.success": "تم استلام الرسالة. شكرًا لتواصلك مع AUTONOMOUS.",
+      "contact.error_required": "Please fill in all required fields.",
+      "contact.error_email": "Please enter a valid email address.",
+      "contact.error_rate": "You've reached the sending limit for now. Please try again later.",
+      "contact.error_duplicate": "This message was already received. Thank you!",
+      "contact.error_generic": "Something went wrong. Please try again.",
+      "contact.email_label": "Official email",
+      "contact.verify": "Verification",
+      "contact.verify_label": "Leave this field empty",
+      "footer.description": "An emerging technology company exploring the next generation of intelligent AI and automation experiences.",
+      "footer.quick": "Quick Navigation",
+      "footer.connect": "Connect",
+      "footer.legal": "Legal",
+      "footer.privacy": "Privacy Policy",
+      "footer.terms": "Terms of Service",
+      "footer.cookies": "Cookie Policy",
+      "footer.disclaimer": "Disclaimer",
+      "footer.rights": "جميع الحقوق محفوظة.",
+      "notfound.title": "404 — انقطع الاتصال بالشبكة.",
+      "notfound.body": "The page you're looking for doesn't exist — but what we're building might be even more interesting.",
+      "notfound.cta": "العودة إلى الرئيسية",
+      "maintenance.title": "سنعود قريبًا.",
+      "maintenance.body": "AUTONOMOUS is undergoing scheduled maintenance. We're making things better — please check back soon.",
+      "maintenance.eta_label": "Estimated return",
+      "legal.privacy_title": "Privacy Policy",
+      "legal.terms_title": "Terms of Service",
+      "legal.cookies_title": "Cookie Policy",
+      "legal.disclaimer_title": "Disclaimer",
+      "legal.review_note": "This document is a draft prepared from the website's actual functionality and is marked for professional legal review before publication.",
+      "common.loading": "Loading…",
+      "common.error": "Something went wrong.",
+      "common.retry": "Retry",
+      "common.back_home": "Back home",
+      "legal.privacy": "Privacy Policy",
+      "legal.terms": "Terms of Service",
+      "legal.cookies": "Cookie Policy",
+      "legal.disclaimer": "Disclaimer"
+    },
+    "fr": {
+      "nav.home": "Accueil",
+      "nav.about": "À propos",
+      "nav.vision": "Vision",
+      "nav.mission": "Mission",
+      "nav.philosophy": "Philosophie",
+      "nav.exploring": "Exploration",
+      "nav.product": "Produit",
+      "nav.journey": "Notre parcours",
+      "nav.faq": "FAQ",
+      "nav.contact": "Contact",
+      "nav.get_in_touch": "Nous contacter",
+      "nav.menu": "Menu",
+      "nav.close": "Close",
+      "nav.theme": "Toggle theme",
+      "nav.language": "Language",
+      "hero.eyebrow": "AUTONOMOUS // EMERGING TECHNOLOGY",
+      "hero.line1": "L'avenir de l'intelligence prend forme.",
+      "hero.intro": "Une entreprise technologique émergente qui explore de nouvelles possibilités en IA intelligente et automatisation.",
+      "hero.believe": "Nous croyons que la technologie devrait faire plus, pour que les gens réalisent plus.",
+      "hero.building": "Quelque chose de différent se construit.",
+      "hero.cta_primary": "Explorer notre vision",
+      "hero.cta_secondary": "Découvrir ce que nous construisons",
+      "hero.scroll": "Scroll to explore",
+      "marquee.items": "Intelligent AI / Autonomous Systems / Human-Technology Collaboration / Automation & Productivity /",
+      "about.label": "01 // ABOUT AUTONOMOUS",
+      "about.title": "Une entreprise façonnée par une conviction simple.",
+      "about.p1": "AUTONOMOUS incarne l'engagement envers la prochaine génération d'expériences intelligentes d'IA et d'automatisation. Notre direction est claire : construire des systèmes qui simplifient les défis du quotidien et aident les gens à se concentrer sur l'essentiel.",
+      "about.p2": "Intelligent technology matters because time and attention are the most valuable resources people have. Every repetitive task that a machine can carry out carefully and reliably is an opportunity for a person to create, decide and achieve more.",
+      "about.p3": "Our approach to innovation is deliberate. We explore, plan and build with care — preferring useful, dependable technology over novelty for its own sake.",
+      "about.p4": "Our long-term direction is an ecosystem of intelligent agents that work alongside people. The journey has begun, and it will unfold step by step.",
+      "about.why_title": "Why intelligent technology matters",
+      "about.problems_title": "The problems we want to address",
+      "about.problems": [
+        "Repetitive manual effort that consumes time and energy.",
+        "Complex tools that add friction instead of removing it.",
+        "Technology that demands attention instead of giving it back."
+      ],
+      "about.approach_title": "Our approach to innovation",
+      "about.approach_body": "We start from real human needs, keep what we build simple and useful, and refine continuously. We are building toward a future where technology becomes more capable, adaptive and useful.",
+      "about.direction_title": "Our long-term direction",
+      "vision.label": "02 // OUR VISION",
+      "vision.title": "Bâtir un écosystème d'agents d'IA intelligents capables de simplifier la vie et le travail.",
+      "vision.body": "We imagine technology that understands context, acts with care and gives people back their time. Our vision guides every decision: intelligent systems that simplify life and work, quietly and dependably.",
+      "mission.label": "03 // OUR MISSION",
+      "mission.title": "Quatre principes guident notre travail.",
+      "mission.intro": "Our mission is to create useful technology that empowers people rather than unnecessarily complicating their lives.",
+      "mission.item1_title": "Automatiser les tâches répétitives",
+      "mission.item1_body": "Develop intelligent technologies that automate repetitive tasks.",
+      "mission.item2_title": "Aider à travailler plus intelligemment",
+      "mission.item2_body": "Build AI agents that help people work smarter, save time and achieve more.",
+      "mission.item3_title": "Transformer l'interaction",
+      "mission.item3_body": "Explore autonomous systems that transform how individuals and businesses interact with technology.",
+      "mission.item4_title": "Autonomiser, sans compliquer",
+      "mission.item4_body": "Create useful technology that empowers people rather than unnecessarily complicating their lives.",
+      "philosophy.label": "04 // OUR PHILOSOPHY",
+      "philosophy.title": "Intelligence in service of people.",
+      "philosophy.quote": "La technologie ne devrait pas simplement faire travailler les gens plus vite. Elle devrait les aider à obtenir de meilleurs résultats.",
+      "philosophy.p1": "We believe the future of technology lies in intelligent collaboration between humans and machines. Machines contribute speed, memory and consistency; people contribute judgment, creativity and purpose.",
+      "philosophy.p2": "Empowerment, usefulness and simplicity are our measures of success. Responsible innovation is our obligation: we build carefully, honestly and with respect for the people who will rely on what we make.",
+      "exploring.label": "05 // WHAT WE'RE EXPLORING",
+      "exploring.title": "Quatre directions, une ambition.",
+      "exploring.intro": "We are exploring the building blocks of an intelligent future. Each area is a piece of the same puzzle.",
+      "exploring.item1_title": "IA intelligente",
+      "exploring.item1_body": "Systems that understand context and adapt to the way people actually live and work.",
+      "exploring.item2_title": "Systèmes autonomes",
+      "exploring.item2_body": "Technology that can carry out multi-step work with care, reliability and oversight.",
+      "exploring.item3_title": "Collaboration homme-technologie",
+      "exploring.item3_body": "Interfaces where people and intelligent systems strengthen each other's strengths.",
+      "exploring.item4_title": "Automatisation et productivité",
+      "exploring.item4_body": "Reducing repetitive manual effort so people can focus on what matters.",
+      "product.label": "06 // UPCOMING PRODUCT",
+      "product.title": "Quelque chose de différent se construit.",
+      "product.intro": "Deep in our workshop, a new kind of intelligent companion is taking form — assembled with patience, care and a bias for usefulness. We are not ready to share its name or its nature yet.",
+      "product.status": "Bientôt disponible",
+      "product.future": "The future of intelligent technology is being assembled — carefully, deliberately.",
+      "product.popup_title": "WE'RE BUILDING SOMETHING EXTRAORDINARY",
+      "product.popup_message": "A new chapter in intelligent technology is on its way. Stay curious.",
+      "product.popup_close": "Close",
+      "journey.label": "07 // OUR JOURNEY",
+      "journey.title": "Le parcours a commencé.",
+      "journey.intro": "Every meaningful technology starts as an idea. Here is where ours stands today.",
+      "journey.current": "Current stage",
+      "faq.label": "08 // FREQUENTLY ASKED QUESTIONS",
+      "faq.title": "Des questions, des réponses.",
+      "faq.q1": "What is AUTONOMOUS?",
+      "faq.a1": "AUTONOMOUS is an emerging technology company exploring the next generation of intelligent AI and automation experiences. We believe technology should do more, so people can achieve more.",
+      "faq.q2": "What is the vision of AUTONOMOUS?",
+      "faq.a2": "Our vision is to build an ecosystem of intelligent AI agents that can simplify life and work.",
+      "faq.q3": "What areas of technology are you exploring?",
+      "faq.a3": "We are exploring four connected areas: intelligent AI, autonomous systems, human-technology collaboration, and automation and productivity.",
+      "faq.q4": "How can I connect or collaborate?",
+      "faq.a4": "You can reach us through the contact form on this website, or write to us at autonomousai.support@gmail.com.",
+      "contact.label": "09 // CONNECT WITH US",
+      "contact.title": "Commencez la conversation.",
+      "contact.intro": "Questions, partnerships, collaborations or opportunities — we read every message.",
+      "contact.name": "Nom complet",
+      "contact.email": "Adresse e-mail",
+      "contact.reason": "Motif de contact",
+      "contact.subject": "Objet",
+      "contact.message": "Message",
+      "contact.name_ph": "Your full name",
+      "contact.email_ph": "you@example.com",
+      "contact.subject_ph": "How can we help?",
+      "contact.message_ph": "Tell us a little about your enquiry…",
+      "contact.reason_general": "General enquiry",
+      "contact.reason_business": "Business partnership",
+      "contact.reason_collab": "Collaboration",
+      "contact.reason_careers": "Careers / Opportunities",
+      "contact.reason_investor": "Investor enquiry",
+      "contact.reason_other": "Other",
+      "contact.submit": "Envoyer le message",
+      "contact.sending": "Envoi…",
+      "contact.success": "Message bien reçu. Merci d'avoir contacté AUTONOMOUS.",
+      "contact.error_required": "Please fill in all required fields.",
+      "contact.error_email": "Please enter a valid email address.",
+      "contact.error_rate": "You've reached the sending limit for now. Please try again later.",
+      "contact.error_duplicate": "This message was already received. Thank you!",
+      "contact.error_generic": "Something went wrong. Please try again.",
+      "contact.email_label": "Official email",
+      "contact.verify": "Verification",
+      "contact.verify_label": "Leave this field empty",
+      "footer.description": "An emerging technology company exploring the next generation of intelligent AI and automation experiences.",
+      "footer.quick": "Quick Navigation",
+      "footer.connect": "Connect",
+      "footer.legal": "Legal",
+      "footer.privacy": "Privacy Policy",
+      "footer.terms": "Terms of Service",
+      "footer.cookies": "Cookie Policy",
+      "footer.disclaimer": "Disclaimer",
+      "footer.rights": "Tous droits réservés.",
+      "notfound.title": "404 — Signal perdu dans la grille.",
+      "notfound.body": "The page you're looking for doesn't exist — but what we're building might be even more interesting.",
+      "notfound.cta": "Retour à l'accueil",
+      "maintenance.title": "Nous revenons très vite.",
+      "maintenance.body": "AUTONOMOUS is undergoing scheduled maintenance. We're making things better — please check back soon.",
+      "maintenance.eta_label": "Estimated return",
+      "legal.privacy_title": "Privacy Policy",
+      "legal.terms_title": "Terms of Service",
+      "legal.cookies_title": "Cookie Policy",
+      "legal.disclaimer_title": "Disclaimer",
+      "legal.review_note": "This document is a draft prepared from the website's actual functionality and is marked for professional legal review before publication.",
+      "common.loading": "Loading…",
+      "common.error": "Something went wrong.",
+      "common.retry": "Retry",
+      "common.back_home": "Back home",
+      "legal.privacy": "Privacy Policy",
+      "legal.terms": "Terms of Service",
+      "legal.cookies": "Cookie Policy",
+      "legal.disclaimer": "Disclaimer"
+    },
+    "en": {
+      "nav.home": "Home",
+      "nav.about": "About",
+      "nav.vision": "Vision",
+      "nav.mission": "Mission",
+      "nav.philosophy": "Philosophy",
+      "nav.exploring": "Exploring",
+      "nav.product": "Product",
+      "nav.journey": "Our Journey",
+      "nav.faq": "FAQ",
+      "nav.contact": "Contact",
+      "nav.get_in_touch": "Get in Touch",
+      "nav.menu": "Menu",
+      "nav.close": "Close",
+      "nav.theme": "Toggle theme",
+      "nav.language": "Language",
+      "hero.eyebrow": "AUTONOMOUS // EMERGING TECHNOLOGY",
+      "hero.line1": "The future of intelligence is taking shape.",
+      "hero.intro": "An emerging technology company exploring new possibilities in intelligent AI and automation.",
+      "hero.believe": "We believe technology should do more, so people can achieve more.",
+      "hero.building": "Something different is being built.",
+      "hero.cta_primary": "Explore Our Vision",
+      "hero.cta_secondary": "Discover What We're Building",
+      "hero.scroll": "Scroll to explore",
+      "marquee.items": "Intelligent AI / Autonomous Systems / Human-Technology Collaboration / Automation & Productivity /",
+      "about.label": "01 // ABOUT AUTONOMOUS",
+      "about.title": "A company shaped by a simple belief.",
+      "about.p1": "AUTONOMOUS represents a commitment to the next generation of intelligent AI and automation experiences. We are an emerging technology company with a clear direction: build systems that simplify everyday challenges, reduce repetitive manual effort and help people focus on what matters.",
+      "about.p2": "Intelligent technology matters because time and attention are the most valuable resources people have. Every repetitive task that a machine can carry out carefully and reliably is an opportunity for a person to create, decide and achieve more.",
+      "about.p3": "Our approach to innovation is deliberate. We explore, plan and build with care — preferring useful, dependable technology over novelty for its own sake.",
+      "about.p4": "Our long-term direction is an ecosystem of intelligent agents that work alongside people. The journey has begun, and it will unfold step by step.",
+      "about.why_title": "Why intelligent technology matters",
+      "about.problems_title": "The problems we want to address",
+      "about.problems": [
+        "Repetitive manual effort that consumes time and energy.",
+        "Complex tools that add friction instead of removing it.",
+        "Technology that demands attention instead of giving it back."
+      ],
+      "about.approach_title": "Our approach to innovation",
+      "about.approach_body": "We start from real human needs, keep what we build simple and useful, and refine continuously. We are building toward a future where technology becomes more capable, adaptive and useful.",
+      "about.direction_title": "Our long-term direction",
+      "vision.label": "02 // OUR VISION",
+      "vision.title": "Build an ecosystem of intelligent AI agents that can simplify life and work.",
+      "vision.body": "We imagine technology that understands context, acts with care and gives people back their time. Our vision guides every decision: intelligent systems that simplify life and work, quietly and dependably.",
+      "mission.label": "03 // OUR MISSION",
+      "mission.title": "Four principles guide our work.",
+      "mission.intro": "Our mission is to create useful technology that empowers people rather than unnecessarily complicating their lives.",
+      "mission.item1_title": "Automate repetitive tasks",
+      "mission.item1_body": "Develop intelligent technologies that automate repetitive tasks.",
+      "mission.item2_title": "Help people work smarter",
+      "mission.item2_body": "Build AI agents that help people work smarter, save time and achieve more.",
+      "mission.item3_title": "Transform interaction",
+      "mission.item3_body": "Explore autonomous systems that transform how individuals and businesses interact with technology.",
+      "mission.item4_title": "Empower, don't complicate",
+      "mission.item4_body": "Create useful technology that empowers people rather than unnecessarily complicating their lives.",
+      "philosophy.label": "04 // OUR PHILOSOPHY",
+      "philosophy.title": "Intelligence in service of people.",
+      "philosophy.quote": "Technology should not simply make people work faster. It should help people achieve better outcomes.",
+      "philosophy.p1": "We believe the future of technology lies in intelligent collaboration between humans and machines. Machines contribute speed, memory and consistency; people contribute judgment, creativity and purpose.",
+      "philosophy.p2": "Empowerment, usefulness and simplicity are our measures of success. Responsible innovation is our obligation: we build carefully, honestly and with respect for the people who will rely on what we make.",
+      "exploring.label": "05 // WHAT WE'RE EXPLORING",
+      "exploring.title": "Four directions, one ambition.",
+      "exploring.intro": "We are exploring the building blocks of an intelligent future. Each area is a piece of the same puzzle.",
+      "exploring.item1_title": "Intelligent AI",
+      "exploring.item1_body": "Systems that understand context and adapt to the way people actually live and work.",
+      "exploring.item2_title": "Autonomous Systems",
+      "exploring.item2_body": "Technology that can carry out multi-step work with care, reliability and oversight.",
+      "exploring.item3_title": "Human-Technology Collaboration",
+      "exploring.item3_body": "Interfaces where people and intelligent systems strengthen each other's strengths.",
+      "exploring.item4_title": "Automation and Productivity",
+      "exploring.item4_body": "Reducing repetitive manual effort so people can focus on what matters.",
+      "product.label": "06 // UPCOMING PRODUCT",
+      "product.title": "Something different is being built.",
+      "product.intro": "Deep in our workshop, a new kind of intelligent companion is taking form — assembled with patience, care and a bias for usefulness. We are not ready to share its name or its nature yet.",
+      "product.status": "Coming Soon",
+      "product.future": "The future of intelligent technology is being assembled — carefully, deliberately.",
+      "product.popup_title": "WE'RE BUILDING SOMETHING EXTRAORDINARY",
+      "product.popup_message": "A new chapter in intelligent technology is on its way. Stay curious.",
+      "product.popup_close": "Close",
+      "journey.label": "07 // OUR JOURNEY",
+      "journey.title": "The journey has begun.",
+      "journey.intro": "Every meaningful technology starts as an idea. Here is where ours stands today.",
+      "journey.current": "Current stage",
+      "faq.label": "08 // FREQUENTLY ASKED QUESTIONS",
+      "faq.title": "Questions, answered.",
+      "faq.q1": "What is AUTONOMOUS?",
+      "faq.a1": "AUTONOMOUS is an emerging technology company exploring the next generation of intelligent AI and automation experiences. We believe technology should do more, so people can achieve more.",
+      "faq.q2": "What is the vision of AUTONOMOUS?",
+      "faq.a2": "Our vision is to build an ecosystem of intelligent AI agents that can simplify life and work.",
+      "faq.q3": "What areas of technology are you exploring?",
+      "faq.a3": "We are exploring four connected areas: intelligent AI, autonomous systems, human-technology collaboration, and automation and productivity.",
+      "faq.q4": "How can I connect or collaborate?",
+      "faq.a4": "You can reach us through the contact form on this website, or write to us at autonomousai.support@gmail.com.",
+      "contact.label": "09 // CONNECT WITH US",
+      "contact.title": "Start the conversation.",
+      "contact.intro": "Questions, partnerships, collaborations or opportunities — we read every message.",
+      "contact.name": "Full Name",
+      "contact.email": "Email Address",
+      "contact.reason": "Reason for Contact",
+      "contact.subject": "Subject",
+      "contact.message": "Message",
+      "contact.name_ph": "Your full name",
+      "contact.email_ph": "you@example.com",
+      "contact.subject_ph": "How can we help?",
+      "contact.message_ph": "Tell us a little about your enquiry…",
+      "contact.reason_general": "General enquiry",
+      "contact.reason_business": "Business partnership",
+      "contact.reason_collab": "Collaboration",
+      "contact.reason_careers": "Careers / Opportunities",
+      "contact.reason_investor": "Investor enquiry",
+      "contact.reason_other": "Other",
+      "contact.submit": "Send Message",
+      "contact.sending": "Sending…",
+      "contact.success": "Message received. Thank you for reaching out to AUTONOMOUS.",
+      "contact.error_required": "Please fill in all required fields.",
+      "contact.error_email": "Please enter a valid email address.",
+      "contact.error_rate": "You've reached the sending limit for now. Please try again later.",
+      "contact.error_duplicate": "This message was already received. Thank you!",
+      "contact.error_generic": "Something went wrong. Please try again.",
+      "contact.email_label": "Official email",
+      "contact.verify": "Verification",
+      "contact.verify_label": "Leave this field empty",
+      "footer.description": "An emerging technology company exploring the next generation of intelligent AI and automation experiences.",
+      "footer.quick": "Quick Navigation",
+      "footer.connect": "Connect",
+      "footer.legal": "Legal",
+      "footer.privacy": "Privacy Policy",
+      "footer.terms": "Terms of Service",
+      "footer.cookies": "Cookie Policy",
+      "footer.disclaimer": "Disclaimer",
+      "footer.rights": "All rights reserved.",
+      "notfound.title": "404 — Signal lost in the grid.",
+      "notfound.body": "The page you're looking for doesn't exist — but what we're building might be even more interesting.",
+      "notfound.cta": "Return Home",
+      "maintenance.title": "We'll be back shortly.",
+      "maintenance.body": "AUTONOMOUS is undergoing scheduled maintenance. We're making things better — please check back soon.",
+      "maintenance.eta_label": "Estimated return",
+      "legal.privacy_title": "Privacy Policy",
+      "legal.terms_title": "Terms of Service",
+      "legal.cookies_title": "Cookie Policy",
+      "legal.disclaimer_title": "Disclaimer",
+      "legal.review_note": "This document is a draft prepared from the website's actual functionality and is marked for professional legal review before publication.",
+      "common.loading": "Loading…",
+      "common.error": "Something went wrong.",
+      "common.retry": "Retry",
+      "common.back_home": "Back home",
+      "legal.privacy": "Privacy Policy",
+      "legal.terms": "Terms of Service",
+      "legal.cookies": "Cookie Policy",
+      "legal.disclaimer": "Disclaimer"
+    }
+  }
+}

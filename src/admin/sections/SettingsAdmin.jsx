@@ -32,9 +32,28 @@ export default function SettingsAdmin() {
         announcement_text: s.announcement?.text || "",
         announcement_link: s.announcement?.link || "",
         approved_langs: s.approved_langs || ["en"],
+        gmail_user: s.gmail_user || "autonomousai.support@gmail.com",
+        gmail_app_password: s.gmail_app_password || "",
+        secondary_email: s.secondary_email || "mohammedafnaspaleri@gmail.com",
       });
       flash("Settings saved.");
     } catch (e) { flash(formatApiErrorDetail(e?.response?.data?.detail) || "Save failed."); } finally { setBusy(false); }
+  };
+
+  const testEmail = async () => {
+    setBusy(true);
+    try {
+      const res = await api.post("/admin/test-email", { to: s.contact_email || "autonomousai.support@gmail.com" });
+      if (res.data?.success) {
+        flash("Test email dispatched successfully to Gmail!");
+      } else {
+        flash(res.data?.error || "Email delivery failed.");
+      }
+    } catch (e) {
+      flash("Failed to send test email.");
+    } finally {
+      setBusy(false);
+    }
   };
 
   const inputCls = "w-full rounded-xl border border-brand-line bg-black px-4 py-3 text-sm text-white focus:border-blue-500/70 focus:outline-none";
@@ -43,8 +62,61 @@ export default function SettingsAdmin() {
     <div className="max-w-3xl space-y-8" data-testid="admin-settings">
       <div>
         <h1 className="font-display text-2xl font-bold">Settings</h1>
-        <p className="mt-1 text-sm text-brand-muted">Maintenance mode, announcements, SEO and site preferences.</p>
+        <p className="mt-1 text-sm text-brand-muted">Maintenance mode, announcements, SEO, Gmail delivery and site preferences.</p>
       </div>
+
+      <section className="rounded-2xl border border-brand-line bg-zinc-950/70 p-6">
+        <div className="flex items-center justify-between">
+          <h2 className="font-display text-base font-semibold">Gmail & Form Notifications</h2>
+          <button
+            type="button"
+            onClick={testEmail}
+            disabled={busy}
+            className="rounded-full border border-blue-500/40 bg-blue-500/10 px-4 py-1.5 text-xs font-medium text-blue-300 hover:bg-blue-500/20"
+          >
+            Send Test Email
+          </button>
+        </div>
+        <p className="mt-1 text-xs text-brand-muted">
+          All visitor contact submissions and admin login OTPs are automatically dispatched to your specified Gmail addresses.
+        </p>
+
+        <div className="mt-4 space-y-3">
+          <div>
+            <label className="block text-xs uppercase tracking-wider text-zinc-400 mb-1">Primary Gmail (Autonomous)</label>
+            <input
+              placeholder="autonomousai.support@gmail.com"
+              className={inputCls}
+              value={s.contact_email || "autonomousai.support@gmail.com"}
+              onChange={(e) => upd({ contact_email: e.target.value, gmail_user: e.target.value })}
+            />
+          </div>
+          <div>
+            <label className="block text-xs uppercase tracking-wider text-zinc-400 mb-1">Secondary Gmail / Personal Inbox</label>
+            <input
+              placeholder="mohammedafnaspaleri@gmail.com"
+              className={inputCls}
+              value={s.secondary_email || "mohammedafnaspaleri@gmail.com"}
+              onChange={(e) => upd({ secondary_email: e.target.value })}
+            />
+          </div>
+          <div>
+            <label className="block text-xs uppercase tracking-wider text-zinc-400 mb-1">
+              Gmail App Password (Optional for live SMTP delivery)
+            </label>
+            <input
+              type="password"
+              placeholder="16-character Google App Password (e.g. abcd efgh ijkl mnop)"
+              className={inputCls}
+              value={s.gmail_app_password || ""}
+              onChange={(e) => upd({ gmail_app_password: e.target.value })}
+            />
+            <p className="mt-1 text-[11px] text-zinc-500">
+              Generate in Google Account &gt; Security &gt; 2-Step Verification &gt; App Passwords.
+            </p>
+          </div>
+        </div>
+      </section>
 
       <section className="rounded-2xl border border-brand-line bg-zinc-950/70 p-6">
         <h2 className="font-display text-base font-semibold">Maintenance mode</h2>
